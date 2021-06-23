@@ -1,0 +1,3 @@
+/Users/360wavyy/Downloads/Test1/cmake-build-g/CMakeFiles/rebuild_cache.dir
+/Users/360wavyy/Downloads/Test1/cmake-build-g/CMakeFiles/edit_cache.dir
+/Users/360wavyy/Downloads/Test1/cmake-build-g/CMakeFiles/src.dir

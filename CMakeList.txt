@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.19)
+project(src)
+
+set(CMAKE_CXX_STANDARD 13)
+
+include_directories(.)
+
+add_executable(src
+        CapLetter.cpp
+        CapLetter.h
+        Counter.cpp
+        Counter.h
+        First-LastWord.cpp
+        First-LastWord.h
+        group_project.cpp
+        letter_adam.cpp
+        letter_adam.h
+        sentence_adam.cpp
+        sentence_adam.h filter.cpp filter.h getInput.cpp getInput.h countPunctuation.cpp countPunctuation.h)
