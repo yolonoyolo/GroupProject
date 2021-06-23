@@ -22,5 +22,6 @@ void CapLetter(char *str) {
         loop++; //Set loop will go to next letter.
 
     }
+    
     cout << endl;
 }

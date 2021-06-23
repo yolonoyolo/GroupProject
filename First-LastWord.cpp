@@ -57,8 +57,8 @@ int search(char *str) {
     //I changed these two lines because there was an error with the compiler
     //the strings need to be allocated dynamically
     //Changed here
-    string first [size];
-    string last [size]; //initialize new string with the constant size.
+    string first[size];
+    string last[size]; //initialize new string with the constant size.
     firstword(str, first);
     lastword(str, last); //Move into functions
 
@@ -74,5 +74,5 @@ int search(char *str) {
     }
     cout << endl;
 
-   return 0;
+    return 0;
 }

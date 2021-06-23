@@ -47,13 +47,13 @@ int main() {
 
 
     cout << "Your piece has " << count_letter(input) << " letters and "
-    << count_vowels(input) << " vowels." << endl;// Harsh
+         << count_vowels(input) << " vowels." << endl;// Harsh
     //Outputs the return values of the "letter_counter" and "vowel_counter" functions.
-    cout << "There is/are " << countPunctuation(chinput) << " punctuation(s) in this piece"<<endl;//Royce
+    cout << "There is/are " << countPunctuation(chinput) << " punctuation(s) in this piece" << endl;//Royce
 
 
     cout << "This is the edited string: ";
     cout << input
-    << endl; // Outputs the "input" array with the correct changes made to the capitalization at the start of a sentence.
+         << endl; // Outputs the "input" array with the correct changes made to the capitalization at the start of a sentence.
     return 0;
 }
